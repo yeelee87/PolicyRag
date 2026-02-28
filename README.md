@@ -1,3 +1,4 @@
+Latest release：https://github.com/yeelee87/PolicyRag/releases/latest
 [PolicyRAG-Skill-Release-README.md](https://github.com/user-attachments/files/25619888/PolicyRAG-Skill-Release-README.md)
 # PolicyRAG Skill
 **Local-First RAG for Policy Documents and Approval Workflows**  
